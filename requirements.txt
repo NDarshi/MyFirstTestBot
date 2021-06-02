@@ -19,6 +19,6 @@ TelegramApiClient==0.72
 TelegramBotAPI==0.3.2
 TelegramDisk==0.1
 telepot==12.6
-urllib3==1.25.7
+urllib3==1.26.5
 virtualenv==16.7.9
 yarl==1.4.2
